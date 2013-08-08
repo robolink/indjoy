@@ -1,0 +1,2 @@
+float16 joystick_x
+float16 joystickc_y
